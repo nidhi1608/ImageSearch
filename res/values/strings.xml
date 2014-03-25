@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Search</string>
+    <string name="miSearchTitle">Search</string>
+    <string name="miSettings">Settings</string>
+    <string name="btnSearch">Search</string>
+    <string name="etSearchHint">Enter Search Term</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvImageSize">Image Size</string>
+
+    <string-array name="imageSize_array">
+        <item>All</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+        <item>xxlarge</item>
+        <item>huge</item>
+        <item>icon</item>
+    </string-array>
+    <string-array name="imageColor_array">
+        <item>All</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+    <string-array name="imageType_array">
+        <item>All</item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+
+    <string name="tvImageColor">Color Filter</string>
+    <string name="tvImageType">Image Type</string>
+    <string name="tvSiteFilter">Site Filter</string>
+    <string name="share">Share</string>
+    <string name="title_activity_full_screen_view">FullScreenViewActivity</string>
+    <string name="btnClose">Close</string>
+    <string name="network_error">Unable to connect to internet.</string>
+    <string name="advanced_search_options">Advanced Search Options</string>
+	<string name="btnOK">OK</string>
+	<string name="btnCancel">Cancel</string>
+	
+</resources>
