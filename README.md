@@ -47,7 +47,10 @@ Extended Google Image Search to allow a user to modify advanced search options a
 
 ![alt tag](https://raw.githubusercontent.com/nidhi1608/ImageSearch/master/screenshots/8.png)
 
-* Error when the app cannot connect to the internet.
+* Error when the app cannot connect to internet.
 
 
 ![alt tag](https://raw.githubusercontent.com/nidhi1608/ImageSearch/master/screenshots/9.png)
+
+
+Total time spent: 15 hours
